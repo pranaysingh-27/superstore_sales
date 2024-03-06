@@ -9,7 +9,8 @@
 >> Project Learning: 
 - Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
 
->> Interactive Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMjU2MjFiZTAtOGNjZC00OWZhLWIzOTQtMGJmMjg1MjA4M2I1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+>> Interactive Dashboard Link:
+- https://app.powerbi.com/view?r=eyJrIjoiMjU2MjFiZTAtOGNjZC00OWZhLWIzOTQtMGJmMjg1MjA4M2I1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 >> Important Insights:
 
