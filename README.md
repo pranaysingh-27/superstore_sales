@@ -33,3 +33,4 @@
 > Sales Forecast:
 - Forecasted average sales is around 5k per day for first 15 days in January 2021.
 
+![image](https://github.com/pranaysingh-27/superstore_sales/assets/143386107/fc3bbc08-0ef5-4787-81a2-5d86c9197b6d)
