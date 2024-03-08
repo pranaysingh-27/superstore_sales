@@ -1,7 +1,7 @@
 # Superstore Sales Analysis
 
 >> Description: 
-- "Superstore" is an E-commerce store which sells furniture, office supplies, and computer peripherals. They want to analyse the sales performance over two years and find out what went right and what could be improved.
+- "Superstore" is an E-commerce store that operates in the US and sells furniture, office supplies, and computer peripherals. They want to analyze the sales performance over two years and find out what went right and what could be improved.
  
 >> Objective: 
 - To contribute to the success of Superstore by utilizing data analysis techniques specifically focusing on visualization with important KPIs and key metrics, time series analysis to provide valuable insights and accurate sales forecasting.
@@ -27,11 +27,11 @@
 - The product "Canon imageCLASS 2200 Advanced Copier" brought over 14% of the profit (from over 1700 total products).
 - The highest profit was recorded in October and December. But it dipped significantly in November month of both years.
 - Profit was very high in October even though sales were low.
-- Profit was very low in November even though sales were good .
+- Profit was very low in November even though sales were good.
 - Profit in March 2020 was significantly high compared to the previous year. But dipped in April 2020.
 
 > Sales Forecast:
-- Forecasted average sales is around 5k per day for first 15 days in January 2021.
+- Forecasted average sales is around 5k per day for the first 15 days in January 2021.
 
 ![Screenshot 2024-03-06 203242](https://github.com/pranaysingh-27/superstore_sales/assets/143386107/ea87c04d-798d-4e80-a86b-d1cb54b63d4e)
 
