@@ -1,4 +1,4 @@
-# Superstore Sales Analysis
+# E-Commerce Sales Analysis
 
 >> Description: 
 - "Superstore" is an E-commerce store that operates in the US and sells furniture, office supplies, and computer peripherals. They want to analyze the sales performance over two years and find out what went right and what could be improved.
